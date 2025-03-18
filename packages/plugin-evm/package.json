@@ -7,7 +7,7 @@
     "dependencies": {
         "@ai16z/eliza": "workspace:*",
         "@ai16z/plugin-trustdb": "workspace:*",
-        "@lifi/data-types": "5.15.5",
+        "@lifi/data-types": "5.28.0",
         "@lifi/sdk": "3.4.1",
         "@lifi/types": "16.3.0",
         "tsup": "8.3.5",

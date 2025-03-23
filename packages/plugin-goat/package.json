@@ -10,7 +10,7 @@
         "@goat-sdk/plugin-erc20": "0.1.7",
         "@goat-sdk/wallet-viem": "0.2.8",
         "tsup": "8.3.5",
-        "viem": "2.21.53"
+        "viem": "2.23.5"
     },
     "scripts": {
         "build": "tsup --format esm --dts",

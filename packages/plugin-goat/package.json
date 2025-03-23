@@ -7,7 +7,7 @@
     "dependencies": {
         "@ai16z/eliza": "workspace:*",
         "@goat-sdk/core": "0.3.8",
-        "@goat-sdk/plugin-erc20": "0.1.7",
+        "@goat-sdk/plugin-erc20": "0.2.10",
         "@goat-sdk/wallet-viem": "0.2.8",
         "tsup": "8.3.5",
         "viem": "2.21.53"

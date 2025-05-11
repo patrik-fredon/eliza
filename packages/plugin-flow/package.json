@@ -10,7 +10,7 @@
         "@onflow/config": "1.5.1",
         "@onflow/fcl": "1.13.1",
         "@onflow/typedefs": "1.4.0",
-        "bignumber.js": "9.1.2",
+        "bignumber.js": "9.3.0",
         "bs58": "6.0.0",
         "elliptic": "6.6.1",
         "node-cache": "5.1.2",

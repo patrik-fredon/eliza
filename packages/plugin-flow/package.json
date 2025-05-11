@@ -8,15 +8,18 @@
         "@ai16z/eliza": "workspace:*",
         "@ai16z/plugin-trustdb": "workspace:*",
         "@onflow/config": "1.5.1",
-        "@onflow/fcl": "1.13.1",
+        "@onflow/fcl": "1.15.0",
         "@onflow/typedefs": "1.4.0",
-        "bignumber.js": "9.1.2",
+        "bignumber.js": "9.3.0",
         "bs58": "6.0.0",
         "elliptic": "6.6.1",
         "node-cache": "5.1.2",
         "sha3": "2.1.4",
-        "uuid": "11.0.5",
-        "zod": "3.24.3"
+
+        "zod": "3.24.3",
+
+        "uuid": "11.1.0"
+
     },
     "devDependencies": {
         "@types/elliptic": "6.4.18",

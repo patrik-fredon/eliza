@@ -55,7 +55,7 @@
         "@vitest/eslint-plugin": "1.1.43",
         "ollama-ai-provider": "0.16.1",
         "optional": "0.1.4",
-        "pnpm": "9.14.4",
+        "pnpm": "9.15.9",
         "sharp": "0.34.1",
         "tslog": "4.9.3"
     },

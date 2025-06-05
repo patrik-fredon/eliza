@@ -7,7 +7,7 @@
     "dependencies": {
         "@ai16z/eliza": "workspace:*",
         "@ai16z/plugin-trustdb": "workspace:*",
-        "@onflow/config": "1.5.1",
+        "@onflow/config": "1.5.2",
         "@onflow/fcl": "1.15.0",
         "@onflow/typedefs": "1.4.0",
         "bignumber.js": "9.3.0",

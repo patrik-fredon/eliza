@@ -9,7 +9,7 @@
         "@ai16z/plugin-trustdb": "workspace:*",
         "@onflow/config": "1.5.1",
         "@onflow/fcl": "1.15.0",
-        "@onflow/typedefs": "1.4.0",
+        "@onflow/typedefs": "1.4.1",
         "bignumber.js": "9.3.0",
         "bs58": "6.0.0",
         "elliptic": "6.6.1",

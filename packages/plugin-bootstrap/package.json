@@ -28,7 +28,7 @@
   "dependencies": {
     "@elizaos/core": "workspace:*",
     "@elizaos/plugin-anthropic": "1.0.0",
-    "@elizaos/plugin-discord": "1.0.3",
+    "@elizaos/plugin-discord": "1.0.10",
     "@elizaos/plugin-sql": "^1.0.2",
     "@elizaos/plugin-telegram": "1.0.0"
   },

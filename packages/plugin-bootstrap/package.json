@@ -30,7 +30,7 @@
     "@elizaos/plugin-anthropic": "1.0.0",
     "@elizaos/plugin-discord": "1.0.3",
     "@elizaos/plugin-sql": "^1.0.2",
-    "@elizaos/plugin-telegram": "1.0.0"
+    "@elizaos/plugin-telegram": "1.0.4"
   },
   "devDependencies": {
     "@elizaos/cli": "workspace:*",

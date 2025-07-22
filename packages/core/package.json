@@ -82,7 +82,7 @@
     "@sentry/browser": "^9.22.0",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.1",
-    "dotenv": "16.5.0",
+    "dotenv": "16.6.1",
     "events": "^3.3.0",
     "glob": "11.0.3",
     "handlebars": "^4.7.8",
